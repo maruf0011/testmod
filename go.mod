@@ -1,1 +1,1 @@
-module github.com/maruf0011/testmod
+module github.com/maruf0011/testmod/v2
